@@ -12,3 +12,8 @@ after that it will run riitag-RPC
 3 copy the batch file to the startup folder
 
 4 done
+
+## iT AEnT WoKIn
+
+yeah its still beta and i will fix it
+just hang tight
