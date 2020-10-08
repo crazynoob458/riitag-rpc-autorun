@@ -13,6 +13,7 @@ echo gud now about to open riitag-RPC
 cd c:\ ::leave this alone
 c: ::this should be your drive letter of where riitag RPC is located
 cd <FEOLDER> ::this is where riitag-RPC is located
+<nameofriitagrpc>.exe ::this should be the name of your riitag rpc
 :FIN
 echo discord isnt running :\
 echo retrying
